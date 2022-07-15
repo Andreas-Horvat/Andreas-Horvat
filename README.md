@@ -28,6 +28,10 @@ I work as a full stack developer who is expanding his knowledge in IT security <
   <a  href="https://www.xing.com/profile/Andreas_Horvat3/cv">
     <img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"/>
   </a>
+   <a href="https://discord.com/users/172000958480384000">
+    <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+ 
 </div>
 
 
