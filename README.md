@@ -1,4 +1,4 @@
- <p style="text-align: center;">Hello world! 👋</p>
+ <p align="center "style="text-align: center;">Hello world! 👋</p>
 
 
 <div id="header" align="center">
