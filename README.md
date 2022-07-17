@@ -15,7 +15,7 @@
 
 --- 
 ### 👩‍💻  &nbsp; About
-I work as a full stack developer who is expanding his knowledge in IT security <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I work as a full stack developer who expands his knowledge in IT security <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 ---
